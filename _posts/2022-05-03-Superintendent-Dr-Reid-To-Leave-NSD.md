@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Superintendent Dr. Reid to leave NSD"
-lastUpdated: 2022-05-03
+lastUpdated: 2022-07-20
 fromDiscord: true
 ---
 

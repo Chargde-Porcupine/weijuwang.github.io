@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "Student found with BB gun at Leota Middle School"
-lastUpdated: 2022-06-04
-fromDiscord: false
 ---
 
 On Friday, Leota Middle School went into “Safe Inside mode” after a BB gun was found in a student’s backpack. During a Safe Inside, also known as a “Shelter in Place”, doors are locked but learning continues as normal. All students and staff were safe and a police investigation is ongoing.

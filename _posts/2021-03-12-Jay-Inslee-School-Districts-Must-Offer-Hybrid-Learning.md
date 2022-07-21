@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jay Inslee: School districts must offer hybrid learning"
-lastUpdated: 2021-03-12
+lastUpdated: 2022-07-20
 fromDiscord: true
 ---
 

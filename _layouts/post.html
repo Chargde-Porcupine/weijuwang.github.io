@@ -5,15 +5,16 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <a href="/newsblog/">← All articles</a>
     <p class="post-meta">
-      Originally published
+      Originally published:
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         {{ page.date | date: date_format }}
       </time>
       {%- if page.date != page.lastUpdated -%}
         <br>
-        Last updated
+        Last updated:
         <time class="dt-published" datetime="{{ page.lastUpdated | date_to_xmlschema }}" itemprop="datePublished">
           {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
           {{ page.lastUpdated | date: date_format }}

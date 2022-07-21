@@ -28,7 +28,7 @@ instagram_username: linguisician
 
 header_pages:
   - newsblog.md
-  - about.md
+  - aboutme.md
 
 # Build settings
 theme: minima

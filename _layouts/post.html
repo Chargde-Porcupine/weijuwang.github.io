@@ -11,24 +11,22 @@ layout: default
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         {{ page.date | date: date_format }}
       </time>
-      <br>
-      Last updated
-      <time class="dt-published" datetime="{{ page.lastUpdated | date_to_xmlschema }}" itemprop="datePublished">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ page.lastUpdated | date: date_format }}
-      </time>
-      {%- if page.author -%}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
-      {%- endif -%}</p>
+      {%- if page.date != page.lastUpdated -%}
+        <br>
+        Last updated
+        <time class="dt-published" datetime="{{ page.lastUpdated | date_to_xmlschema }}" itemprop="datePublished">
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          {{ page.lastUpdated | date: date_format }}
+        </time>
+      {%- endif -%}
+      {%- if page.fromDiscord -%}
+        <br><i>This is an edited version of an announcement originally published in the Northshore Student Den.</i>
+      {%- endif -%}
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
-
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-  {%- endif -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>

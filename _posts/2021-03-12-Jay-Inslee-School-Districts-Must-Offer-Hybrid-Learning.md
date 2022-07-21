@@ -2,9 +2,8 @@
 layout: post
 title: "Jay Inslee: School districts must offer hybrid learning"
 lastUpdated: 2021-03-12
+fromDiscord: true
 ---
-
-*This is an edited version of an announcement originally published in the Northshore Student Den.*
 
 **Jay Inslee**, Washington state governor, announced that all Washington school districts must offer hybrid learning for K-6 students by April 5. All other students must be offered hybrid learning by April 19.
 

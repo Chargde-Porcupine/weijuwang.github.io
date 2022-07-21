@@ -1,6 +1,6 @@
 ---
 layout: page
-title: News Blog
+title: News blog
 permalink: /newsblog/
 ---
 
@@ -12,4 +12,4 @@ permalink: /newsblog/
 
 #### Purpose
 
-I write these articles when I feel that there is news of importance to my community that has not been well-covered by other sources, or that I feel I could investigate and cover in more depth. Information is best when it is accessible to everyone, and I feel that, in an increasingly-globalized world, we focus too much on inter-community and not *intra*-community. In reality, both are equally important, and so I hope that my readers ultimately come away highly informed about the topics I cover.
+I write these articles when I feel that there is news of importance to my community that has not been well-covered by other sources, or that I feel I could investigate and cover in more depth. Information is best when it is accessible to everyone, and I feel that, in an increasingly-globalized world, we focus too much on inter-community and not *intra*-community. In reality, both are equally important, and so I hope to contribute to the latter by making sure my readers ultimately come away highly informed about the topics I cover.

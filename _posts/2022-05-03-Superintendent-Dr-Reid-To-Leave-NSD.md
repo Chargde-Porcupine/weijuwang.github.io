@@ -2,9 +2,8 @@
 layout: post
 title: "Superintendent Dr. Reid to leave NSD"
 lastUpdated: 2022-05-03
+fromDiscord: true
 ---
-
-*This is an edited version of an announcement originally published in the Northshore Student Den.*
 
 On July 1, Northshore School District superintendent **Dr. Michelle Reid** will be leaving the Northshore School District. She will be replaced by an interim superintendent, who will serve for one year beginning in June. Searches for a permanent superintendent will commence in the fall.
 

@@ -26,6 +26,10 @@ url: "https://weijuwang.github.io" # the base hostname & protocol for your site,
 github_username: weijuwang
 instagram_username: linguisician
 
+header_pages:
+  - newsblog.md
+  - about.md
+
 # Build settings
 theme: minima
 #plugins:

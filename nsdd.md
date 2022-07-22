@@ -9,7 +9,7 @@ noTitle: true
 <center><i>For students, by students: A Discord server for the Northshore School District</i></center>
 <br>
 
-<center>(Want an invite link? <a href="#contact">Shoot me a message!</a>)</center><br>
+<center>(Want an invite link? Shoot me a message! Scroll to the bottom for contact info.)</center><br>
 
 I created the Northshore Student Den as a means by which all Northshore students could chat and make friends without being limited to the social groups of their own school. Over time, the Den grew from "just" a Discord server to a massive, bustling community of 500 fellow students. I truly believe the server and the people who make it possible have had an impact on the entire Northshore community that is unlike any other.
 
